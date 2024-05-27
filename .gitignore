@@ -17,10 +17,3 @@ db.sqlite3
 *.bak
 *.orig
 *.mo
-
-taxi/__init__.py
-taxi/tests.py
-taxi/views.py
-taxi_service/__init__.py
-taxi_service/asgi.py
-taxi_service/wsgi.py
